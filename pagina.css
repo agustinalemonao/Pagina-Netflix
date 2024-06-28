@@ -1,0 +1,37 @@
+.btn{
+    text-decoration:none;
+    margin-right: 400px;
+    font-size: 20px;
+    padding-top:15px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-bottom: 15px;
+    background-color: rgba(66, 64, 64, 0.932);
+    color: #fff;
+    border-width: 6px;
+    border-left:6px ;
+    border-top: 6px;
+    border-bottom: 6px;
+    border-radius: 35px;
+    
+}
+p{
+    color: antiquewhite;
+}
+
+    button:hover {
+    background-color: rgb(17, 15, 15);
+    }
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    font-size: 100px;
+    color: rgb(207, 2, 2);
+}
+h2{
+    font-size: 48px;
+    padding-top: 50px;
+    color: #fff;
+}
